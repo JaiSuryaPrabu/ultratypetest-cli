@@ -35,6 +35,8 @@ This is the recommended method for most users. You get a single executable file 
 
 ### For Developers (via `pip`)
 
+> Head over to the PyPi official [page](https://pypi.org/project/ultratypetest-cli/)
+
 If you have Python installed and are comfortable with the command line, you can install the tool using `pip` (or `uv`).
 
 ```bash
